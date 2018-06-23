@@ -1,0 +1,14 @@
+{
+    "name": "chenchangzhou/test",
+    "description": "a  test  protect",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenchangzhou",
+            "email": "478787337@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
